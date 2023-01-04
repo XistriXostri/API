@@ -2,23 +2,17 @@
   "robots": [
     {
         "id": "000001",
-        "name": "cristian",
         "velocity": "1",
         "strength": "1",
         "creationDate": "04/01/2023",
-        "creator": "Cristian",
-        "image": "https://robohash.org/cristian.png",
-        "isFavourite": "false",
+        "creator": "Cristian"
     },
     {
         "id": "000002",
-        "name": "pepe",
         "velocity": "2",
         "strength": "2",
         "creationDate": "02/01/2023",
-        "creator": "Pepe"
-        "image": "https://robohash.org/pepe.png",
-        "isFavourite": "false",
+        "creator": "Pepe",
     }
   ]
 }
