@@ -1,0 +1,17 @@
+{
+  "robots": [
+    {
+        id: '000001',
+        velocity: '1',
+        strength: '1',
+        creationDate: '04/01/2023',
+    },
+    {
+        id: '000002',
+        velocity: '2',
+        strength: '2',
+        creationDate: '02/01/2023',
+    }
+  ]
+}
+  
