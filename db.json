@@ -16,16 +16,6 @@
             "img": "https://i.pinimg.com/564x/2c/2b/50/2c2b507c1da4fb73037bb24f1c4fa681.jpg"
         },
         {
-            "name": "Curl biceps predicador",
-            "muscle": "biceps",
-            "img": "https://i.pinimg.com/564x/59/8b/8b/598b8b22fd10f9bf31a1e837a2bb221a.jpg"
-        },
-        {
-            "name": "Predicador inverso de cable",
-            "muscle": "biceps",
-            "img": "https://i.pinimg.com/564x/87/71/7a/87717ae8650a027fb74eb3fe49816234.jpg"
-        },
-        {
             "name": "Overhead triceps",
             "muscle": "triceps",
             "img": "https://i.pinimg.com/564x/a4/00/ae/a400ae28a90bd3ebca08b87cb13ad193.jpg"
@@ -44,11 +34,6 @@
             "name": "Maquina extensión de triceps",
             "muscle": "triceps",
             "img": "https://i.pinimg.com/564x/66/bc/98/66bc98cb1be0a39ed4f6550127af9162.jpg"
-        },
-        {
-            "name": "Flexiones de diamante",
-            "muscle": "triceps",
-            "img": "https://i.pinimg.com/564x/8e/cf/b3/8ecfb32c8faac90421c06e8889b4d79f.jpg"
         },
         {
             "name": "Remo con barra",
@@ -71,11 +56,6 @@
             "img": "https://i.pinimg.com/564x/d1/55/6c/d1556c3bc60615a677b39a2151a465e7.jpg"
         },
         {
-            "name": "Remo con cable",
-            "muscle": "espalda",
-            "img": "https://i.pinimg.com/564x/83/92/26/839226f799dd93c8a3cfdf8ebb28a055.jpg"
-        },
-        {
             "name": "Pecho en banco declinado",
             "muscle": "pecho",
             "img": "https://i.pinimg.com/564x/f1/28/17/f12817c0f75881d72a193e2b749049a7.jpg"
@@ -96,11 +76,6 @@
             "img": "https://i.pinimg.com/564x/b1/23/30/b1233081775c48bfee0d354f3a70e9c7.jpg"
         },
         {
-            "name": "Flexiones de pecho",
-            "muscle": "pecho",
-            "img": "https://i.pinimg.com/564x/4c/a6/28/4ca628a7b556fabf7d79cff20624e649.jpg"
-        },
-        {
             "name": "Press militar con barra",
             "muscle": "hombro",
             "img": "https://i.pinimg.com/564x/8e/55/bd/8e55bdd13fcb331e8c9c95a151696414.jpg"
@@ -114,11 +89,6 @@
             "name": "Elevaciones laterales con mancuerna",
             "muscle": "hombro",
             "img": "https://i.pinimg.com/564x/e1/ee/0a/e1ee0ad38f72778433328089bdccab38.jpg"
-        },
-        {
-            "name": "Elevaciones frontales con mancuernas",
-            "muscle": "hombro",
-            "img": "https://i.pinimg.com/564x/4c/0c/41/4c0c41498d4c61829cdd3037d919ae21.jpg"
         },
         {
             "name": "Elevaciones laterales con cable",
@@ -151,11 +121,6 @@
             "img": "https://i.pinimg.com/564x/14/a8/35/14a8357db676b0704d5548caad0518c1.jpg"
         },
         {
-            "name": "gemelo sentado",
-            "muscle": "gemelo",
-            "img": "https://i.pinimg.com/564x/dc/5d/6e/dc5d6e82dde5d44e0daae787a1b6ef23.jpg"
-        },
-        {
             "name": "gemelo de pie en maquina",
             "muscle": "gemelo",
             "img": "https://i.pinimg.com/564x/73/79/55/7379550a9430dfe0938b30c81f7c41f9.jpg"
@@ -174,11 +139,6 @@
             "name": "Máquina de hiperextensión inversa",
             "muscle": "gluteo",
             "img": "https://i.pinimg.com/564x/b6/a4/c4/b6a4c4b782bd9bcfecdfba77b630363f.jpg"
-        },
-        {
-            "name": "Patada gluteos",
-            "muscle": "gluteo",
-            "img": "https://i.pinimg.com/564x/a7/2a/9e/a72a9efdb06b19063f92e905c6cb72e3.jpg"
         },
         {
             "name": "pull gluteos",
@@ -201,25 +161,10 @@
             "img": "https://i.pinimg.com/564x/32/d2/31/32d23193a9aef0dc0632b5f3a969ee94.jpg"
         },
         {
-            "name": "Hiperextensión inversa con torsión",
-            "muscle": "abdominales",
-            "img": "https://i.pinimg.com/564x/f6/28/a4/f628a474a26340a6682b55010bccb8f6.jpg"
-        },
-        {
             "name": "Rodillo",
             "muscle": "abdominales",
             "img": "https://i.pinimg.com/564x/48/1f/31/481f31b8ab3357bd1895be1abae0866c.jpg"
         },
-        {
-            "name": "Obliquo externo",
-            "muscle": "abdominales",
-            "img": "https://i.pinimg.com/564x/91/60/ba/9160ba871abf04e1f78a463c0d3bfbcf.jpg"
-        },
-        {
-            "name": "Rodillo de muñeca",
-            "muscle": "antebrazo",
-            "img": "https://i.pinimg.com/236x/ba/15/75/ba1575b8f7cb78b399929f81320f9c9d.jpg"
-        }
     ]
 }
 
