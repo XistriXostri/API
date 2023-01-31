@@ -31,11 +31,6 @@
             "img": "https://i.pinimg.com/564x/f4/15/ad/f415addde261dd1841652e74bcee1e97.jpg"
         },
         {
-            "name": "Maquina extensión de triceps",
-            "muscle": "triceps",
-            "img": "https://i.pinimg.com/564x/66/bc/98/66bc98cb1be0a39ed4f6550127af9162.jpg"
-        },
-        {
             "name": "Remo con barra",
             "muscle": "espalda",
             "img": "https://i.pinimg.com/564x/12/8f/32/128f326670f0fbaf6cc3d55bfb113b02.jpg"
@@ -84,11 +79,6 @@
             "name": "Press militar con mancuerna",
             "muscle": "hombro",
             "img": "https://i.pinimg.com/564x/0e/21/ea/0e21eaad36e44e667cf8ee825a3e5ded.jpg"
-        },
-        {
-            "name": "Elevaciones laterales con mancuerna",
-            "muscle": "hombro",
-            "img": "https://i.pinimg.com/564x/e1/ee/0a/e1ee0ad38f72778433328089bdccab38.jpg"
         },
         {
             "name": "Elevaciones laterales con cable",
